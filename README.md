@@ -1,1 +1,5 @@
-# NStudio_Nextion_Library
+# Nextion Library
+
+More information coming soon...
+
+
